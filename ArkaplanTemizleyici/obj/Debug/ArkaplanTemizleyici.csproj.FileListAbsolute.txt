@@ -1,0 +1,14 @@
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\bin\Debug\ArkaplanTemizleyici.exe.config
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\bin\Debug\ArkaplanTemizleyici.exe
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\bin\Debug\ArkaplanTemizleyici.pdb
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.csprojResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.Form1.resources
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.Properties.Resources.resources
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.csproj.GenerateResource.Cache
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.exe
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.pdb
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\bin\Debug\ArkaplanTemizleyici.exe.manifest
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\bin\Debug\ArkaplanTemizleyici.application
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.TrustInfo.xml
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.exe.manifest
+c:\users\j\documents\visual studio 2015\Projects\ArkaplanTemizleyici\ArkaplanTemizleyici\obj\Debug\ArkaplanTemizleyici.application
